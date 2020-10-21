@@ -15,8 +15,8 @@ Conditions emerging from the COVID-19 pandemic has put a limit on the number of 
 In order to make things manageable for our staff, all cuts and prints done through the service bureau have limited options. If you need to do custom work, get in touch with Kayle Karbowski or Ben Dembroski and we can arrange for you to get direct access to the necessary equipment.
 
 ### Links to the equipment pages and order forms
-- [Laser Cutting](/equipment/lasercutters.html) [Order Form]()
-- [Vinyl Cutting](/equipment/vinylcutters.html) [Order Form]()
+- [Laser cutting information](/equipment/lasercutters.html) & [Order Form]()
+- [Vinyl cutting information](/equipment/vinylcutters.html) & [Order Form]()
 - FDM Printing (coming soon!)
 - SLA Printing (coming soon!)
 
