@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Using the ETC Service Bureau
+title: Service Bureau
 permalink: /service/usingthesb
 ---
 ## How this all works
