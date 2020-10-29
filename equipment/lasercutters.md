@@ -8,8 +8,8 @@ permalink: /equipment/lasercutters
 The Emerging Technology Center has two laser cutter / etchers available, named Jenny and Cody. They are both Universal Laser Systems PLS6.150d models, with a total available power of 150 watts for each machine. Students can process work on these machines in one of two ways:
 
 * Through the [Emerging Technology Center Service Bureau](/service/usingthesb.html).
-    - If you know how the service bureau works, you can skip strait to the [file submission form](https://docs.google.com/forms/d/e/1FAIpQLSd4uoJjBEy1aoVjJs31U_WjWiDalBJYx3Z5DctA0Yz0UOFreg/viewform?usp=sf_link)
-* Making an [Appointment]() for Hands On use of the cutter.
+    - If you know how the service bureau works, you can skip straight to the [file submission form](https://docs.google.com/forms/d/e/1FAIpQLSd4uoJjBEy1aoVjJs31U_WjWiDalBJYx3Z5DctA0Yz0UOFreg/viewform?usp=sf_link)
+* Making an [Appointment](mailto:etc_group@miad.edu) for "hands on" use of the cutter.
 
 Which option you choose is dependent on your experience level with the machines, and the complexity of the cut you are looking to make. If in doubt, send an [email](mailto:etc_group@miad.edu) to etc_group@miad.edu, or in the [ETC's Google Chat Room](https://chat.google.com/room/AAAAMR7NIj0) and we can help you decide which is the best approach is for you.
 
@@ -73,7 +73,7 @@ Make sure the power switch is turned to the On position (–) on the laser cutte
     - Note: You can use the up and down arrows in the UCP window to move the printer bed up and down to better focus the laser if you need to be really precise. BE VERY CAREFUL not to get too close to the laser head! Leave around ¾ inch from the material to the laser head. It will dislodge if the material bumps into the laser head and you will need a lab monitor to fix this.
 9. Use the “Estimate View” tool to see how much time your file will take to complete.
 10. Once you are satisfied with the placement of your material and file, turn on the air filtration system above Cody. You should hear air going through the machine. If you don’t know how to do this, ask a lab monitor for help.
-11. Press the big green Play button to start your cut. If the air filtration system is not on, the cut will not start and a dialogue box will pop up informing you of this.
+11. Press the big green Play button to start your cut. 
 12. You must stay within eyesight of the machine while your project is cutting. If you need to leave for any reason, you can use the Pause button to pause the cut OR ask a friend or lab monitor to keep an eye on it. This is your responsibility! Click the Pause button again to resume. Clicking the Play button will start the cut over from the beginning.
     - Note: Fires do happen! If you see a fire start in the machine, pause your cut immediately and get a lab monitor. DO NOT OPEN THE PRINTER.
 13. Once your cut is complete, give your project at least 30 seconds to cool off. Especially if you are cutting something synthetic such as acrylic, the smell from the cut can be quite chemically. Waiting to open the print bed also gives the smell time to dissipate.  

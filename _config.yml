@@ -36,7 +36,7 @@ header_pages:
   - programs/how.md
   - equipment/what.md
   - service/usingthesb.md
-  - news.md
+  #- news.md
 
 
 
