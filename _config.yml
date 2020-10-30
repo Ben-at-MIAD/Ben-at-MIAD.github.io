@@ -21,16 +21,24 @@
 title: Emerging Technology Center
 email: etc_group@miad.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  MIAD's Emerging Technology Center is where MIAD students, faculty and staff work with cool stuff to do cool stuff.
+  MIAD's Emerging Technology Center is where MIAD students, faculty and staff discover, explore and define how emerging technology can enhance creative practice.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: miad_etc
+##twitter_username: miad_etc
 github_username:  MIAD-ETC
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - programs/how.md
+  - equipment/what.md
+  - service/usingthesb.md
+  #- news.md
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

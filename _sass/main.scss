@@ -1,0 +1,13 @@
+
+.little_img_right{
+    //margin: 50px;
+    padding: 10px;
+    float: right;
+    max-width: 40%;
+}
+
+.clearfix::after{
+    content: "";
+    display: table;
+    clear: both;
+}
