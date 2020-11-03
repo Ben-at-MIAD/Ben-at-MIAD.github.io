@@ -3,15 +3,19 @@ layout: page
 title: Independent Inquiry Program
 permalink: /iip/aboutiip
 ---
+
+[Topics and Questions](iiptopics.md) | [RFP](iiprfp.md) | [Inquire](mailto:bendembroski@miad.edu)
+
 ## Overview
 
 The Independent Inquiry Program provides MIAD students the opportunity to receive philanthropically sourced funding while investigating how artists and designers can use emerging technology in ways not currently employed in MIAD's curriculum.  
 
 The rate of profound technological developments which affect art and design is accelerating.  It is difficult for a traditional undergraduate curriculum to effectively adapt to these developments without additional support.  We are also seeing increasing demand for graduates that can adeptly identify and use transformational technologies as they emerge. This program serves as support for the college and its students to meet both those needs, helping the college and its graduates be recognized as forward-thinking, constantly relevant, and highly adaptable.
 
+
 ## How it Works
 
-MIAD’s Director of Emerging Technology works with an advisory panel of MIAD staff and faculty to determine a list of inquiry topics relating to technologies that will likely affect artists and designers, but are not yet fully integrated into the MIAD curriculum.  Each topic has a list of specific questions to be investigated.  Through a process of independent inquiry and research, the answers to these questions populate an online knowledge base which is publically accessible.  This knowledge base can then be used as a basis for further investigations by the MIAD community to support curricular development using these technologies.  
+MIAD’s Director of Emerging Technology works with an advisory panel of MIAD staff and faculty to determine a list of inquiry topics relating to technologies that will likely affect artists and designers, but are not yet fully integrated into the MIAD curriculum.  Each topic has a list of specific questions to be investigated.  Through a process of independent inquiry and research, the answers to these questions populate an online knowledge base which is publicly accessible.  This knowledge base can then be used as a basis for further investigations by the MIAD community to support curricular development using these technologies.  
 
 Students can apply by submitting a proposal to investigate one of the questions during a 6 or 15 week funded investigation under the supervision of a MIAD staff or faculty.  The advisory panel reviews the proposals, and awards one funded inquiry for each question.  The student receives a stipend to begin their inquiry. The student  attempts to answer the question through independent inquiry and applied research.  At the end of the investigation, the student submits the results of their inquiry as a contribution to the Emerging Technology Center’s Knowledge Base following a templated format.  The advisory panel then reviews the submission and if successful, the student receives the remainder of the stipend.
 
