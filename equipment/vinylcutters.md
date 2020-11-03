@@ -22,4 +22,4 @@ There are 3 basic steps to using the laser cutters:
 2. Sending the file to the cutter and prepping the cut using the Control Panel software
 3. Running the operation on the machine
 
-You should complete step one before you are in front of the cutter, or before you submit the form. Steps 2 and 3 happen when you are working on the machine itself, so you won't do those if you are submitting a file to processed through the service bureau.
+You should complete step one before you are in front of the cutter, or before you submit the form. Steps 2 and 3 happen when you are working on the machine itself, so you won't do those if you are submitting a file to be processed through the service bureau.
