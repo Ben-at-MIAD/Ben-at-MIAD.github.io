@@ -24,8 +24,8 @@ The Emerging Technology Center offers students several ways to get 'hands on' wi
 
 We also offer opportunities for students to engage in funded inquiry projects, and work to collaboratively with other areas and labs in the college.
 
-* [Individual Projects]({% link programs/how.md %})
-* [Independent Inquiry Program]({% link programs/iip/aboutiip.md %})
+* [Individual Projects]({% link /programs/how.md %})
+* [Independent Inquiry Program]({% link /programs/iip/aboutiip.md %})
 <!-- *
 [Emerging Technology Commissions]()
 [etc... The Zine]()
