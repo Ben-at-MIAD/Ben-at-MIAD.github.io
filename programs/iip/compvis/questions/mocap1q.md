@@ -1,10 +1,10 @@
 ---
 layout: page
-title: IIP Question:  What are the most viable motion capture solutions for MIAD?
+title: IIP Question - Most viable motion capture solutions for MIAD
 permalink: /programs/iip/mocap/questions/mocap1q
 ---
 
-[About the IIP](/programs/iip/aboutiip) | [RFP](programs/iip/iiprfp) | [Inquire](mailto:bendembroski@miad.edu)
+[About the IIP](/programs/iip/aboutiip) - [Inquire or Apply](mailto:bendembroski@miad.edu)
 
 ## What are the most viable motion capture solutions for MIAD?
 
@@ -24,5 +24,3 @@ The goal of this inquiry to establish what MOCAP hardware has sufficient softwar
 - Assessment of existing learning pathways and support
 - Overview of software compatibility – including how well the solutions integrate with workflows that commonly exist at MIAD
 - Examples of use in each of the applications listed above
-
-[Link to RFP]()
