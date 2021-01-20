@@ -3,22 +3,29 @@ layout: page
 title: Service Bureau
 permalink: /service/usingthesb
 ---
-## How this all works
-Conditions emerging from the COVID-19 pandemic has put a limit on the number of people that can occupy the Emerging Technology Center at one time. To help ensure that all students can take advantage of ETC equipment for their coursework, we've setup a 'Service Bureau' that enables students to submit files that will be processed by ETC staff.
+## How to Laser Cut, Vinyl Cut, and 3D Print
+COVID-19 pandemic has limited on the number of people that can occupy the Emerging Technology Center at one time. To help ensure that all students can take advantage of ETC equipment for their coursework, we've setup a 'Service Bureau' that enables students to submit files that will be processed by ETC staff.
 
-### The process is as follows:
+We are located on the forth floor, in room 440.
 
-1. Prepare your file for the process you need.  If you aren't sure how to do this, [email](mailto:etc_group@miad.edu) etc_group@miad.edu and we can point you in the direction of the appropriate resources.
+Hours of operation are:
+Monday and Tuesday: 9AM - 3PM
+Wensday 9AM - 6Pm
+Thursday and Friday 9AM - 3PM
+
+### Here's how it works:
+
+1. Prepare your file for the process you need.  If you aren't sure how to do this, check out the links below , or [email](mailto:etc_group@miad.edu) etc_group@miad.edu.
 2. Submit your file using the appropriate form. Each form has details on process and cost.
-3. Wait for an email saying your work is ready, and pick it up at the designated location.
+3. We will be in touch within 1 day (hours of operation) on the status of your job sumbission. Keep an eye out for communications from us!
 
 In order to make things manageable for our staff, all cuts and prints done through the service bureau have limited options. If you need to do custom work, get in touch with Kayle Karbowski or Ben Dembroski and we can arrange for you to get direct access to the necessary equipment.
 
 ### Links to the equipment pages and order forms
-- [Laser cutting information](/equipment/lasercutters.html) & [Order Form](https://forms.gle/4oU84fsnNgKD8rC98)
-- [Vinyl cutting information](/equipment/vinylcutters.html) & [Order Form](https://forms.gle/XoM88178K2BbBZkG6)
-- FDM Printing (coming soon!)
-- SLA Printing (coming soon!)
+- [Laser cutting](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/laser-cutting) 
+- [Vinyl cutting](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/vinyl-cutting)
+- [FDM Printing](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/3d-printing/fdm-filament-printing_)
+- [SLA Printing information](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/3d-printing/sla-resin-printing)
 
 ### A few other thing things to keep in mind
 
