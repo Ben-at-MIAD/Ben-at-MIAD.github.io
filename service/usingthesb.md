@@ -24,7 +24,7 @@ In order to make things manageable for our staff, all cuts and prints done throu
 ### Links to the equipment pages and order forms
 - [Laser cutting](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/laser-cutting) 
 - [Vinyl cutting](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/vinyl-cutting)
-- [FDM Printing](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/3d-printing/fdm-filament-printing_)
+- [FDM Printing](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/3d-printing/fdm-filament-printing)
 - [SLA Printing information](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/3d-printing/sla-resin-printing)
 
 ### A few other thing things to keep in mind
