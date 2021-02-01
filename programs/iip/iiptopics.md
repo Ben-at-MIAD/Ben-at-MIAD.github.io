@@ -25,7 +25,6 @@ Inquiries looking at how a camera connected to a computer can be used for 3D sca
 
 ## Projection Mapping
 Projection mapping is the process of using conventional video projectors and 3D software to project on to three dimensional surfaces
-
 ### Open Questions
 The Independent Inquiry review panel is currently reviewing proposed questions.  Check back soon!
 #### Proposed Questions
@@ -37,7 +36,7 @@ The Independent Inquiry review panel is currently reviewing proposed questions. 
 
 ## Upcoming Topics
 Below is a list of topics that the Emerging Technology Center is interested in exploring through the Indpendent Inquiry Programs.  As questions 
-## Game Engines
+### Game Engines
 #### Proposed Questions
 
 ## Artificial Intelligence and Machine Learning
