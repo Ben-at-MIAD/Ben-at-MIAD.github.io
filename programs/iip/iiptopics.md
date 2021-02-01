@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IIP Topics and Questions
-permalink: /iip/programs/iiptopics
+permalink: /programs/iip/iiptopics
 ---
 
 [About the IIP](aboutiip.md)
@@ -16,9 +16,8 @@ Send an [email to the Director of Emerging Technology](mailto:bendembroski@miad.
 ## Computer Vision
 Inquiries looking at how a camera connected to a computer can be used for 3D scanning, motion capture, and creating interactive experiences.
 ### Open Questions
-The Independent Inquiry review panel is currently reviewing proposed questions.  Check back soon!
+- [What are the most versatile computer vision platforms for MIAD?](compvis/questions/compvis1q.md)
 #### Proposed Questions
-- [What are the most versatile computer vision platforms for MIAD?](/programs/iip/compvis/questions/compvis1q)
 - Is the LIDAR system available on apple devices useful for MIAD students?
 - What is the basic process of using motion capture to help with animation?
 - What is the basic process of photogrammetry using tools readily available to MIAD students? 
@@ -36,6 +35,8 @@ The Independent Inquiry review panel is currently reviewing proposed questions. 
 - What projection mapping workflows are available for Isodora?
 - How does Adobe After Effects fit into projection mapping workflows?
 
+## Upcoming Topics
+Below is a list of topics that the Emerging Technology Center is interested in exploring through the Indpendent Inquiry Programs.  As questions 
 ## Game Engines
 #### Proposed Questions
 
