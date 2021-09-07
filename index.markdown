@@ -13,14 +13,14 @@ It's also a place of difficult questions, hard work, and fruitful failure. There
 If you have a question that starts with "How can I..." or "What if..." you are going to fit right in.
 
 ## How
-The Emerging Technology Center offers students several ways to get 'hands on' with technologies and processes that are new to MIAD.  All activity in the the ETC is driven by your curiosity and willingness to try new things. The best way to take advantage of what the ETC offers is to show up, and try stuff out.
+The Emerging Technology Center offers students several ways to get hands on with technologies and processes that are new to MIAD.  All activity in the the ETC is driven by your curiosity and willingness to try new things. The best way to take advantage of what the ETC offers is to show up, and try stuff out.
 
 You do not need to be enrolled in any particular class to use the ETC. However, often MIAD faculty will encourge students to use the resources in the center as part of their class assignments. Faculty that are interested in learning more about what the ETC can offer you and your students can email etc_group@miad.edu for more information
 
 We also offer opportunities for students to engage in funded inquiry projects, and work to collaboratively with other areas and labs in the college.
 
 * [Individual Projects]({% link programs/how.md %})
-* [Class Projects]({% link courses/index.md %})
+* [Class Projects]({% link courses/classproj.md %})
 * [Independent Inquiry Program]({% link programs/iip/aboutiip.md %})
 <!-- *
 [Emerging Technology Commissions]()
