@@ -5,3 +5,6 @@ _site/
 .bundle/
 vendor
 .DS_store
+*.swp
+*.kate-swp
+

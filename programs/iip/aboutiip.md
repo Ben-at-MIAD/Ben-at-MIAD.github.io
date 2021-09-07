@@ -4,8 +4,7 @@ title: Independent Inquiry Program
 permalink: /programs/iip/aboutiip
 ---
 
-[Topics and Questions](/iip/programs/iiptopics) | [RFP](iiprfp) | [Inquire](mailto:bendembroski@miad.edu)
-
+[Topics and Questions](iiptopics) -- [RFP](iiprfp) -- [Inquire](mailto:bendembroski@miad.edu)
 ## Overview
 
 The Independent Inquiry Program provides MIAD students the opportunity to receive philanthropically sourced funding while investigating how artists and designers can use emerging technology in ways not currently employed in MIAD's curriculum.  
@@ -44,4 +43,4 @@ Looking at the proposed entry, the advisory panel will consider the following qu
 - Video / Photo documentation of work done while in the Emerging Technology Center
 - Public presentation to the MIAD community of the work done through the inquiry
 ## How to Apply
-Students interested in applying to the should start by reviewing the current list of Inquiry Topics and Questions, and determine which inquiry question they would like to pursue.  Students are then welcome to request the Inquiry Proposal Form by [emailing](mailto:bendembroski@miad.edu) bendembroski@miad.edu. 
+Students interested in applying to the should start by reviewing the current list of Inquiry Topics and Questions, and determine which inquiry question they would like to pursue.  Students are then welcome to request the Inquiry Proposal Form by [emailing](mailto:bendembroski@miad.edu) bendembroski@miad.edu.
