@@ -3,6 +3,9 @@ layout: page
 title: Service Bureau
 permalink: /service/usingthesb
 ---
+## The Service Bureau is no longer in operation.  [You get to come in and learn](/programs/how) how to use all the things instead!!
+
+<!--  
 ## How to Laser Cut, Vinyl Cut, and 3D Print
 COVID-19 pandemic has limited on the number of people that can occupy the Emerging Technology Center at one time. To help ensure that all students can take advantage of ETC equipment for their coursework, we've setup a 'Service Bureau' that enables students to submit files that will be processed by ETC staff.
 
@@ -22,7 +25,7 @@ Thursday and Friday 9AM - 3PM
 In order to make things manageable for our staff, all cuts and prints done through the service bureau have limited options. If you need to do custom work, get in touch with Kayle Karbowski or Ben Dembroski and we can arrange for you to get direct access to the necessary equipment.
 
 ### Links to the equipment pages and order forms
-- [Laser cutting](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/laser-cutting) 
+- [Laser cutting](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/laser-cutting)
 - [Vinyl cutting](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/vinyl-cutting)
 - [FDM Printing](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/3d-printing/fdm-filament-printing)
 - [SLA Printing information](https://sites.google.com/miad.edu/miad-etc-service-bureau-sp21/3d-printing/sla-resin-printing)
@@ -32,3 +35,4 @@ In order to make things manageable for our staff, all cuts and prints done throu
 - Give yourself plenty of time.  Prints and cuts fail. There might be a problem with your file, there may be a large backlog of work.
 - If there is a problem with your file, we will let you know the nature of the issue before we start the job. We can't fix the file for you. If you need help with the file, [book an appointment](mailto:etc_group@miad.edu).
 - There are costs involved. We have done our best to keep these as minimal as possible, and are close to the normal usage fees for these processes.
+-->
