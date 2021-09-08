@@ -19,7 +19,7 @@ Students can apply by submitting a proposal to investigate one of the questions 
 ## Funding Level and Inquiry Duration
 There are two levels of Inquiry that students can engage in: **Mini** and **Standard**.
 ### Mini
-Mini Inquiries pay a stipend of $1200 and have a six week duration.  All pilot program and first time applicants are eligible to apply for a Mini Inquiry.  Stipend Payment is divided into two stages. Half the stipend is paid at the onset of the inquiry, and half is paid when the advisory panel approves the final submission.
+Mini Inquiries pay a stipend of $1200 and have a six week duration.  All first time applicants are eligible to apply for a Mini Inquiry.  Stipend Payment is divided into two stages. Half the stipend is paid at the onset of the inquiry, and half is paid when the advisory panel approves the final submission.
 ### Standard
 Standard Inquiries have a fifteen week duration and pay a stipend of $3000.  Due to the longer timeframe of these inquiries, Stipends are paid in three installments. One third is paid at the start of the investigation,  One third is paid after a 7 week progress review conducted by the Director of Emerging Technology.  The third stipend is paid upon panel approval of the final submission.  At the 7 week progress review, if the Director of Emerging Technology has concerns about the level of progress, or the quality of the work, they may ask the review panel to consider ending the Inquiry early, and withhold the final stipend payment.
 ### Advisory Panel Approval
