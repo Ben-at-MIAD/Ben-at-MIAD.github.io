@@ -4,8 +4,7 @@ title: Independent Inquiry Program
 permalink: /programs/iip/aboutiip
 ---
 
-[Topics and Questions](/iip/programs/iiptopics) | [RFP](iiprfp) | [Inquire](mailto:bendembroski@miad.edu)
-
+[Topics and Questions](iiptopics) -- [RFP](iiprfp) -- [Inquire](mailto:bendembroski@miad.edu)
 ## Overview
 
 The Independent Inquiry Program provides MIAD students the opportunity to receive philanthropically sourced funding while investigating how artists and designers can use emerging technology in ways not currently employed in MIAD's curriculum.  
@@ -20,7 +19,7 @@ Students can apply by submitting a proposal to investigate one of the questions 
 ## Funding Level and Inquiry Duration
 There are two levels of Inquiry that students can engage in: **Mini** and **Standard**.
 ### Mini
-Mini Inquiries pay a stipend of $1200 and have a six week duration.  All pilot program and first time applicants are eligible to apply for a Mini Inquiry.  Stipend Payment is divided into two stages. Half the stipend is paid at the onset of the inquiry, and half is paid when the advisory panel approves the final submission.
+Mini Inquiries pay a stipend of $1200 and have a six week duration.  All first time applicants are eligible to apply for a Mini Inquiry.  Stipend Payment is divided into two stages. Half the stipend is paid at the onset of the inquiry, and half is paid when the advisory panel approves the final submission.
 ### Standard
 Standard Inquiries have a fifteen week duration and pay a stipend of $3000.  Due to the longer timeframe of these inquiries, Stipends are paid in three installments. One third is paid at the start of the investigation,  One third is paid after a 7 week progress review conducted by the Director of Emerging Technology.  The third stipend is paid upon panel approval of the final submission.  At the 7 week progress review, if the Director of Emerging Technology has concerns about the level of progress, or the quality of the work, they may ask the review panel to consider ending the Inquiry early, and withhold the final stipend payment.
 ### Advisory Panel Approval
@@ -44,4 +43,4 @@ Looking at the proposed entry, the advisory panel will consider the following qu
 - Video / Photo documentation of work done while in the Emerging Technology Center
 - Public presentation to the MIAD community of the work done through the inquiry
 ## How to Apply
-Students interested in applying to the should start by reviewing the current list of Inquiry Topics and Questions, and determine which inquiry question they would like to pursue.  Students are then welcome to request the Inquiry Proposal Form by [emailing](mailto:bendembroski@miad.edu) bendembroski@miad.edu. 
+Students interested in applying to the should start by reviewing the current list of Inquiry Topics and Questions, and determine which inquiry question they would like to pursue.  Students are then welcome to request the Inquiry Proposal Form by [emailing](mailto:bendembroski@miad.edu) bendembroski@miad.edu.
