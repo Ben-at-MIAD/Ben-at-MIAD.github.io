@@ -3,10 +3,11 @@ layout: page
 title: IIP Question - What are effective workflows between Gravity Sketch and other 3D modeling paradigms?
 permalink: /programs/iip/VR/questions/gravity1q
 ---
+
 - [About the IIP](/programs/iip/aboutiip)
 - [Other Topics and Questions](/programs/iip/iiptopics)
 - [Inquire or Apply](mailto:bendembroski@miad.edu)
-This is dumb.
+
 
 
 ## Why this question is important, and what we are trying to figure out:
