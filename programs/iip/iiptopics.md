@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IIP Topics and Questions
-permalink: /iip/programs/iiptopics
+permalink: /programs/iip/iiptopics
 ---
 
 [About the IIP](aboutiip.md) | [RFP](iiprfp.md) | [Inquire](mailto:bendembroski@miad.edu)
