@@ -4,7 +4,7 @@ title: Independent Inquiry Program
 permalink: /programs/iip/aboutiip
 ---
 
-[Topics and Questions]({% link iiptopics.md %}) -- [Inquire or Apply](mailto:bendembroski@miad.edu)
+[Topics and Questions](iiptopics.md) -- [Inquire or Apply](mailto:bendembroski@miad.edu)
 ## Overview
 
 The Independent Inquiry Program provides MIAD students the opportunity to receive philanthropically sourced funding while investigating how artists and designers can use emerging technology in ways not currently employed in MIAD's curriculum.  
