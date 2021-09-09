@@ -6,6 +6,7 @@ permalink: /programs/iip/VR/questions/gravity1q
 - [About the IIP](/programs/iip/aboutiip)
 - [Other Topics and Questions](/programs/iip/iiptopics)
 - [Inquire or Apply](mailto:bendembroski@miad.edu)
+
 ## Why this question is important, and what we are trying to figure out:
 The unique properties of Virtual Reality provide a new tool that can be incorporated into existing 3D modeling and 3D ideation workflows.  In particular, the ability to affordably work on a human scale in a digital 3D environment is unprecedented. There is no standard workflow yet established.  This line of inquiry looks at the popular title '[Gravity Sketch](https://www.gravitysketch.com/)' and how it relates to current and emerging 3D workflows already at MIAD.  The goal is to determine an indication of this particular softwares capabilities and limitations, and it's scope for enhancing student access to 3D ideation methodologies.
 
