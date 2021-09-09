@@ -4,7 +4,7 @@ title: IIP Topics and Questions
 permalink: /programs/iip/iiptopics
 ---
 
-[About the IIP](aboutiip.md) | [RFP](iiprfp.md) | [Inquire](mailto:bendembroski@miad.edu)
+[About the IIP](aboutiip.md) | [Inquire](mailto:bendembroski@miad.edu)
 
 You will find a list of current and future IIP topics on this page, with links to the Request for Proposals for each question, or a link to the project page for the questions that currently under investigation.
 
