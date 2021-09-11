@@ -3,8 +3,8 @@ layout: page
 title: IIP Question - What are the most viable computer vision solutions for MIAD?
 permalink: /programs/iip/compvis/questions/compivs1q
 ---
-- [About the IIP](/programs/iip/aboutiip)
-- [Other Topics and Questions](/programs/iip/iiptopics)
+- [About the IIP](programs/iip/aboutiip)
+- [Other Topics and Questions](programs/iip/iiptopics)
 - [Inquire or Apply](mailto:bendembroski@miad.edu)
 ## Why this question is important, and what we are trying to figure out:
 

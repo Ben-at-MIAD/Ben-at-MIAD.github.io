@@ -4,8 +4,8 @@ title: IIP Question - What are effective workflows between Gravity Sketch and ot
 permalink: /programs/iip/VR/questions/gravity1q
 ---
 
-- [About the IIP](/programs/iip/aboutiip)
-- [Other Topics and Questions](/programs/iip/iiptopics)
+- [About the IIP](programs/iip/aboutiip)
+- [Other Topics and Questions](programs/iip/iiptopics)
 - [Inquire or Apply](mailto:bendembroski@miad.edu)
 
 
