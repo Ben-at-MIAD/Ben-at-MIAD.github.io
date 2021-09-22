@@ -22,3 +22,5 @@ Inquiries looking at how a camera connected to a computer can be used for 3D sca
 There is great potential in using Virtual Reality as a tool for content creation and idea development.  
 ### VR for Content Creation Questions
 - [What are effective workflows between Gravity Sketch and other 3D modeling paradigms?](/programs/iip/VR/questions/gravity1q)
+
+##
