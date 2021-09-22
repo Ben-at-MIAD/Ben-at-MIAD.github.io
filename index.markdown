@@ -11,14 +11,3 @@ layout: page
 
 {:.tempnav link}
 [Independent Inquiry Program]{}
-<!-- I'm thinking this might need to be a on a different page
-##etc...
-
-## People of the ETC
-
-### Ben
-
-### Kayle
-
-### Student Monitors
---->
