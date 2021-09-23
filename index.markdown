@@ -8,6 +8,3 @@ layout: page
 
 {:.tempnav link}
 [Events, Training and Equipment](https://sites.google.com/miad.edu/miad-etc-training/home)
-
-{:.tempnav link}
-[Independent Inquiry Program]()
